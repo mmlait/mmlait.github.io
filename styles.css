@@ -197,6 +197,10 @@ img {
 	text-align: center;
 }
 
+.highlightText{
+	color: rgb(17, 152, 144);
+}
+
 
 /* -----footer----- */
 .main-footer {
